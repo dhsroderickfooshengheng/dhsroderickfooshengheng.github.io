@@ -1,0 +1,18 @@
+h1{
+  font-family: Trebuchet MS, Georgia, Verdana;
+  color:#cc66ff;
+}
+
+h2{
+  font-family: Georgia, Verdana, Trebuchet MS;
+  color:#cc66ff;
+}
+
+p{
+  font-family: Comic Sans MS;
+  color:#ffcc00
+}
+
+body{
+  background-image: url("https://image.freepik.com/free-vector/abstract-geometric-pattern-background_1319-242.jpg")
+}
